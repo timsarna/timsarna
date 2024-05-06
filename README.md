@@ -117,12 +117,13 @@
 - Angular & React, JavaScript, TypeScript, HTML/CSS
 - Azure Cloud Services, Azure DevOps (CI/CD)
 - Amazon Web Services (AWS)
+- Google Cloud (GCP)
 - OpenShift (RedHat Kubernetes)
 - SQL Server & Clustering, SQL Server Reports (SSRS)
 - Postgres (Standalone & Flex)
 - Exchange Server
 - TomCat & WebSphere
-- GIT & SVN (Source Control)
+- GIT (GitHub & GitLab) & SVN (Source Control)
 - ASP / COM/ DCOM
 - C / C++
 - Cold Fusion
