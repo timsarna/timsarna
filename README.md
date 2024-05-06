@@ -3,23 +3,28 @@
 
 ## PROJECT & WORK EXPERIENCE ##
 
+### Consultant – Online Banking Security, Google Cloud & Anti-Money Laundering ###
+**Key Bank Corporation (Workspend) – Cleveland, Ohio (Sep 2023 – Present)**<br>
+*Tools:  Google Cloud (GCP), Kubernetes (GKE), NodeJS, Transmit*
+- Worked on the Online Baking Security team (Transmit) on various projects including successful migration to Google Cloud (GCP)  
+- Implementation of a Cloud based Anti-Money Laundering software (Quantexa). Worked with various groups on the cloud infrastructure & security of the application & data.
+- Established an RSA Auth Manager (GCE appliance) on GCP. Configuration of hardware tokens, LDAP & REST service calls to verify tokens.
+  
+### Principal Consultant – Custom CRM and Project Management Product ###
+**Impact Ventures / MCR Services  (Construction Industry) – Columbus, Ohio (January 1998 - Present)**<br>  	
+*Tools:  .NET Core (C#), NodeJs, NestJS, React, SQL Server, SQL Reporting (SSRS), Office VSTO*
+- Designed and developed a custom contact (CRM) and project management application.
+- Integration of the CRM into Outlook (VSTO), Word, Excel and other Office applications.
+- Design and creation of SQL (SSRS) reports, including some very advanced report features.  Integration of SSRS into the custom Interchange CRM application.    
+- Ongoing development and support of the product to keep it current with the latest technologies - NodeJS (NestJS APIs) & React UI. 	
+
 ### Principal Architect / SVP – Bank Automation, Account Originations, Intranet Portal ###
-**Professional Bank / Seacoast Bank – Cleveland & Miami (November 2020 – Present)**<br>
+**Professional Bank / Seacoast Bank – Cleveland & Miami (November 2020 – August 2023)**<br>
 *Tools:  NodeJS/REST API, Azure Cloud, Postgres, React, NestJS/Express*
 - Worked with a small team of developers, business analysts and a program manager to automate various business functions across the bank. This included automation of outgoing wires, SFTP of customer files and other workflow processes.
 - Designed and implemented a fully cloud-based custom Account Opening / Originations platform. Integrations with Vouched (Identity & KYC), Plaid and CSI core api’s
 - Development of a custom company intranet platform that included integrations with numerous Azure cloud services and other vendors. (Full-Stack)
 - All code was developed on the latest version of NodeJS, NestJS (microservices) and React (UI) using best practices and strict secure coding practices.
-
-### Principal Consultant – Custom CRM and Project Management Product ###
-**MCR Services / Homeport (Construction Industry) – Columbus, Ohio (January 1998 - Present)**<br>  	
-*Tools:  .NET / Core, Angular, C#, SQL Server, SQL Reporting (SSRS), Office, Exchange, VSTO*
-- Designed and developed a custom contact (CRM) and project management application.
-- Conversion from a desktop-based application to a modern web platform (Angular).
-- Integration of the CRM into Outlook, Word, Excel and other Office applications.
-- Design and creation of SQL (SSRS) reports, including some very advanced report features.  Integration of SSRS into the custom Interchange CRM application.    
-- Installed and configured Microsoft Exchange Server for e-mail and Work Group Collaboration.
-- Ongoing development and support of the product to keep it current with the latest technologies. 	
 
 ### Consultant / Sr. Solutions Architect (Contractor Ernst & Young, LLC) ###
 **RBC Wealth Management – Minneapolis, MN (September 2019 – October 2020)**<br>
